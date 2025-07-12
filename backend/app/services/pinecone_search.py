@@ -1,0 +1,5 @@
+
+OPENAI_API_KEY=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
+PINECONE_API_KEY=https://ticket-index-fy1s2l3.svc.aped-4627-b74a.pinecone.io
+PINECONE_ENVIRONMENT=us-east-1
+PINECONE_INDEX=ticket-index
